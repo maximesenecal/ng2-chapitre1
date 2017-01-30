@@ -1,15 +1,14 @@
 # CHAPITRE 1
 
-## Introduction
+## Introduction (5 min)
 
 - Mettre en place l'environnement de développement (IDE, Node.js, npm)
 - Pourquoi utiliser Angular2 et dans quel contexte ?
 - Qu’est-ce que le Typescript ?
 
-## Découverte de Angular CLI
+## Découverte de Angular CLI (10 min)
 
 - Génération initiale d'un projet
-- Génération d'un premier composant
 - Lancement de l'application (npm start)
 - Découverte de l’architecture Angular 2
 - Explication sur le module de l'Application
@@ -17,10 +16,10 @@
 
 ## Composants
 
-- Découverte de notre premier composant par défaut
+- Découverte du composant généré par défaut
 - Le sélecteur de composant
-- Feuille de style CSS de composant
 - Vue HTML (template) de composant
+- Feuille de style CSS de composant
 - Constructeurs et fonctions
 
 ## Model
