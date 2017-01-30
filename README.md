@@ -3,32 +3,46 @@
 Mettre en place l'environnement de développement (IDE, Node.js, npm)
 Pourquoi utiliser Angular2 et dans quel contexte ?
 Qu’est-ce que le Typescript ?
-Découverte de l’architecture Angular 2
-Bootstraper l’application pour le navigateur
 
 # Découverte de Angular CLI
 
 Génération initiale d'un projet
 Génération d'un premier composant
+Lancement de l'application (npm start)
+Découverte de l’architecture Angular 2
+Explication sur le module de l'Application
+Bootstraper l’application pour le navigateur
 
 # Composants
 
-Créer un composant
-Développement des composants en Typescript
-Ajouter un sélecteur de composant
-Utiliser le sélecteur de composant
-Ajouter une feuille de style CSS de composant
-Utiliser les feuilles de style CSS
-Ajouter un modèle HTML (template) de composant
-Utiliser un modèle HTML (template) de composant
-Interactions entre les composants
-Utiliser un composant dans un autre composant
+Découverte de notre premier composant par défaut
+Le sélecteur de composant
+Feuille de style CSS de composant
+Vue HTML (template) de composant
+Constructeurs et fonctions
+
+# Model
+
+Création de notre premier Model
+Instanciation de notre Model dans un composant
+
+# Services
+
+Comprendre les services
+Créer un service
+Utiliser un service
+Comprendre le principe d'injection de dépendances
 
 # Directives
 
 Comprendre les directives
 Construire une directive personnalisée
 Utiliser les directives structurelles (ngFor...)
+
+FIN DU CHAPITRE 1
+
+Interactions entre les composants
+Utiliser un composant dans un autre composant
 
 # Routes
 
@@ -40,13 +54,6 @@ Naviguer avec les routes
 # Debug
 
 Utiliser le debugger de Chrome Angular Augury
-
-# Services
-
-Comprendre les services
-Créer un service
-Utiliser un service
-Comprendre le principe d'injection de dépendances
 
 # HTTP
 
