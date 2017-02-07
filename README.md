@@ -66,17 +66,17 @@
 
 ## Liaison de données
 
-Notion d’interpolation
-Binding de propriétés DOM
+- Notion d’interpolation
+- Binding de propriétés DOM
 
 ## Formulaires
 
-Créer un formulaire
-Récupérer les données des saisies
-Valider le formulaire
-Afficher les messages d'erreur pour les utilisateurs
+- Créer un formulaire
+- Récupérer les données des saisies
+- Valider le formulaire
+- Afficher les messages d'erreur pour les utilisateurs
 
 ## Angular CLI avancé
 
-Exécution de test
-Déploiement en production
+- Exécution de test
+- Déploiement en production
