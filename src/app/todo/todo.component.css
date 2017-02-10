@@ -1,0 +1,22 @@
+.full-width {
+  width: 100%;
+}
+
+.w80{
+  width:80%;
+  display: inline-block;
+}
+.w10{
+  display: inline-block;
+  width:9%;
+}
+.text-center{
+  text-align: center;
+}
+button{
+  background:
+}
+
+.checked{
+  text-decoration: line-through;
+}

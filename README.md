@@ -1,82 +1,29 @@
-# CHAPITRE 1
+# Challenge
 
-## Introduction (5 min)
+Grâce à notre workshop, vous avez normalement réussi à assimiler les bases de création d'une architecture Angular2, félicitation !
+À présent on va vous laisser vous aventurer sans nous.
 
-- Mettre en place l'environnement de développement (IDE, Node.js, npm)
-- Pourquoi utiliser Angular2 et dans quel contexte ?
-- Qu’est-ce que le Typescript ?
+### Avant de commencer
 
-## Découverte de Angular CLI (10 min)
+Vous devez faire un *[fork](https://help.github.com/articles/fork-a-repo/#platform-linux)* de la dernière branche du chapitre1 (*chapitre1c*).
+```
+git clone http://vps351058.ovh.net/livecoding/ng2-chapitre1.git
+```
+```
+git checkout -b votrenom master
+npm install
+```
 
-- Génération initiale d'un projet
-- Lancement de l'application (npm start)
-- Découverte de l’architecture Angular 2
-- Explication sur le module de l'Application
-- Bootstraper l’application pour le navigateur
+### Comment faire un rendu final ?
 
-## Composants
+Une fois que vous avez fini de travailler sur votre branche locale, vous pouvez nous soumettre un *pull-request*.
+Nous pourrons ainsi voir votre code final et le commenter pour votre *évaluation personnalisée*.
 
-- Découverte du composant généré par défaut
-- Le sélecteur de composant
-- Vue HTML (template) de composant
-- Feuille de style CSS de composant
-- Constructeurs et fonctions
+## Challenges early-bird
 
-## Model
+- Créer une méthode de suppression d'une tâche avec une liaison bi-directionnelle.
 
-- Création de notre premier Model
-- Instanciation de notre Model dans un composant
+## Challenges ninja
 
-## Services
-
-- Comprendre les services
-- Créer un service et ses méthodes
-- Utiliser un service dans un composant
-- Comprendre le principe d'injection de dépendances
-
-## Directives et gestion des événements
-
-- Comprendre les directives
-- Liaison bidirictionnelle (two-way binding) entre les contrôles des saisies et le modèle de données (ngModel)
-- Détecter l'interaction avec les utilisateurs
-- Déclencher une action
-- Utiliser les directives structurelles (ngFor...)
-
-# CHAPITRE 2
-
-## Routes
-
-- Installer le routeur
-- Définir des routes
-- Restreindre l'accès à certaines routes
-- Naviguer avec les routes
-
-## Debug
-
-- Utiliser le debugger de Chrome Angular Augury
-
-## HTTP
-
-- Récupérer les données avec l'objet HTTP
-- Envoyer les données HTTP
-- Appeler différentes méthodes HTTP
-- Transformer les données reçues
-- Gérer les erreurs et les exceptions
-- Affiner les requêtes avec les options de requêtes (par ex, pour changer les headers HTTP)
-
-## Liaison de données
-
-- Notion d’interpolation
-- Binding de propriétés DOM
-
-## Formulaires
-
-- Créer un formulaire
-- Récupérer les données des saisies
-- Valider le formulaire
-- Afficher les messages d'erreur pour les utilisateurs
-
-## Angular CLI avancé
-
-- Exécution de test
-- Déploiement en production
+- Créer un toggle de type `checkbox` qui permet de changer si une tâche est terminée ou non.
+- Mise à jour en temps réél de l'intitulé d'une tâche en cliquant dessus puis sauvegarde si clic en dehors de la zone de saisie

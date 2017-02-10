@@ -1,0 +1,6 @@
+@import '~reset-css/reset.css';
+@import '~@angular/material/core/theming/prebuilt/indigo-pink.css';
+
+body{
+  background: #424242;
+}
