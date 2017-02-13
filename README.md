@@ -1,6 +1,7 @@
 # Formation chapitre 1 - session livecoding
 
 Pour vous former sur ce premier chapitre, nous vous invitons à 
+- connaitre les bases de Git
 - suivre nous livecoding en direct avec le **lien qui vous a été communiqué** 
 - et / ou suivre le [wiki du workshop chapitre 1](http://vps351058.ovh.net/livecoding/ng2-chapitre1/wikis/chapitre-1-introduction-avec-workshop-todolist) pour vous appuyer.
 
@@ -27,7 +28,6 @@ cd ng2-chapitre1
 *Vous devrez renseigner vos identifiants de connexion de cette plateforme GitLab*
 
 ```
-git checkout -b votrenom master
 npm install
 ```
 
@@ -42,5 +42,16 @@ Pour faire le challenge vous devez :
 
 ### Comment faire un rendu final ?
 
-Une fois que vous avez fini de travailler sur votre branche locale, vous pouvez nous soumettre un **pull-request**.
+Une fois que vous avez fini de travailler sur votre branche locale, vous pouvez nous soumettre une **pull-request**.
+
+Pour cela, vous devez push votre contenu local sur **votre** repo distant après avoir ajouter et commit vos changements.
+```
+git add *
+git commit -m "Rendu final de votrenom"
+git push origin master
+```
+
+Une fois cela fait, vous pourrez ainsi soumettre une **pull-request** sur notre repo / branche master via le lien suivant :
+- [Soumettre une pull request](http://vps351058.ovh.net/livecoding/ng2-chapitre1/merge_requests)
+
 Nous pourrons ainsi voir votre code final et le commenter pour votre **évaluation personnalisée**.
