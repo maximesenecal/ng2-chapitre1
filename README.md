@@ -1,4 +1,4 @@
-# Formation chapitre 1 - session livecoding
+# [Formation chapitre 1 - session livecoding & wiki](http://vps351058.ovh.net/livecoding/ng2-chapitre1/wikis/chapitre-1-introduction-avec-workshop-todolist)
 
 Pour vous former sur ce premier chapitre, nous vous invitons à 
 - connaitre les bases de Git
