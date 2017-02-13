@@ -22,16 +22,14 @@ git checkout -b votrenom master
 npm install
 ```
 
+### Consignes du challenge
+
+Pour faire le challenge vous devez :
+- avoir respecté les pré-requis ci-dessus
+- suivre le challenge sur cette [page](http://vps351058.ovh.net/livecoding/ng2-chapitre1/wikis/chapitre-1-challenge)
+- Faire un rendu final
+
 ### Comment faire un rendu final ?
 
 Une fois que vous avez fini de travailler sur votre branche locale, vous pouvez nous soumettre un *pull-request*.
 Nous pourrons ainsi voir votre code final et le commenter pour votre *évaluation personnalisée*.
-
-## Challenges early-bird
-
-- Créer une méthode de suppression d'une tâche avec une liaison bi-directionnelle.
-
-## Challenges ninja
-
-- Créer un toggle de type `checkbox` qui permet de changer si une tâche est terminée ou non.
-- Mise à jour en temps réél de l'intitulé d'une tâche en cliquant dessus puis sauvegarde si clic en dehors de la zone de saisie
