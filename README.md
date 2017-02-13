@@ -16,6 +16,7 @@ Grâce à ce chapitre 1, vous avez normalement réussi à assimiler les bases de
 Vous devez faire un *[fork](https://help.github.com/articles/fork-a-repo/#platform-linux)* de la dernière branche du chapitre1 (*chapitre1c*).
 ```
 git clone http://vps351058.ovh.net/livecoding/ng2-chapitre1.git
+cd ng2-chapitre1
 ```
 ```
 git checkout -b votrenom master
