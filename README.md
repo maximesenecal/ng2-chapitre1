@@ -1,6 +1,8 @@
 # Formation chapitre 1 - session livecoding
 
-Pour vous former sur ce premier chapitre, nous vous invitons à suivre nous livecoding en direct avec le **lien qui vous a été communiqué** et le [wiki](http://vps351058.ovh.net/livecoding/ng2-chapitre1/wikis/home).
+Pour vous former sur ce premier chapitre, nous vous invitons à 
+- suivre nous livecoding en direct avec le **lien qui vous a été communiqué** 
+- et / ou suivre le [wiki du workshop chapitre 1](http://vps351058.ovh.net/livecoding/ng2-chapitre1/wikis/chapitre-1-introduction-avec-workshop-todolist) pour vous appuyer.
 
 **Une fois la session terminée, vous pourrez vous lancer dans les challenges ci-dessous.**
 
