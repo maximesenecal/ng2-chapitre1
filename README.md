@@ -15,9 +15,12 @@ Grâce à ce chapitre 1, vous avez normalement réussi à assimiler les bases de
 
 Vous devez avoir au mimimum **[suivi les pré-requis](http://vps351058.ovh.net/livecoding/ng2-chapitre1/wikis/chapitre-1-introduction-avec-workshop-todolist#pr%C3%A9-requis)** du workshop.
 
-Vous devez faire un *[fork](https://help.github.com/articles/fork-a-repo/#platform-linux)* de la dernière branche du chapitre1 (*chapitre1c*).
+Vous devez faire un *[fork](https://help.github.com/articles/fork-a-repo/#platform-linux)* de ce repo.
+
+Ensuite vous devez clone votre propre repo forké.
+
 ```
-git clone http://vps351058.ovh.net/livecoding/ng2-chapitre1.git
+git clone http://vps351058.ovh.net/votreusername/ng2-chapitre1.git
 cd ng2-chapitre1
 ```
 
