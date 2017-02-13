@@ -25,11 +25,11 @@ npm install
 ### Consignes du challenge
 
 Pour faire le challenge vous devez :
-- avoir respecté les pré-requis ci-dessus
+- avoir respecté les pré-requis **ci-dessus**
 - suivre le challenge sur cette [page](http://vps351058.ovh.net/livecoding/ng2-chapitre1/wikis/chapitre-1-challenge)
-- Faire un rendu final
+- faire un rendu final en respectant les consignes **ci-dessous**
 
 ### Comment faire un rendu final ?
 
-Une fois que vous avez fini de travailler sur votre branche locale, vous pouvez nous soumettre un *pull-request*.
-Nous pourrons ainsi voir votre code final et le commenter pour votre *évaluation personnalisée*.
+Une fois que vous avez fini de travailler sur votre branche locale, vous pouvez nous soumettre un **pull-request**.
+Nous pourrons ainsi voir votre code final et le commenter pour votre **évaluation personnalisée**.
