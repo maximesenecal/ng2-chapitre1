@@ -1,4 +1,4 @@
-# [Formation chapitre 1 - session livecoding & wiki](http://vps351058.ovh.net/livecoding/ng2-chapitre1/wikis/chapitre-1-introduction-avec-workshop-todolist)
+# [Session livecoding & wiki](http://vps351058.ovh.net/livecoding/ng2-chapitre1/wikis/chapitre-1-introduction-avec-workshop-todolist)
 
 Pour vous former sur ce premier chapitre, nous vous invitons à 
 - connaitre les bases de Git
@@ -7,7 +7,7 @@ Pour vous former sur ce premier chapitre, nous vous invitons à
 
 **Une fois la session terminée, vous pourrez vous lancer dans les challenges ci-dessous.**
 
-# Challenge
+# [Challenge](http://vps351058.ovh.net/livecoding/ng2-chapitre1/wikis/chapitre-1-challenge)
 
 Grâce à ce chapitre 1, vous avez normalement réussi à assimiler les bases de création d'une architecture Angular2, félicitation !
 À présent on va vous laisser vous aventurer sans nous.
