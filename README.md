@@ -44,14 +44,14 @@ Pour faire le challenge vous devez :
 
 Une fois que vous avez fini de travailler sur votre branche locale, vous pouvez nous soumettre une **pull-request**.
 
-Pour cela, vous devez push votre contenu local sur **votre** repo distant après avoir ajouter et commit vos changements.
+Pour cela, vous devez push votre contenu local sur **votre repo distant** après avoir ajouter et commit vos changements.
 ```
 git add *
 git commit -m "Rendu final de votrenom"
 git push origin master
 ```
 
-Une fois cela fait, vous pourrez ainsi soumettre une **pull-request** sur notre repo / branche master via le lien suivant :
+Une fois cela fait, vous pourrez ainsi soumettre une **pull-request** sur notre repo / branche master sur le lien suivant :
 - [Soumettre une pull request](http://vps351058.ovh.net/livecoding/ng2-chapitre1/merge_requests)
 
 Nous pourrons ainsi voir votre code final et le commenter pour votre **évaluation personnalisée**.
