@@ -1,6 +1,12 @@
+# Formation chapitre 1 - session livecoding
+
+Pour vous former sur ce premier chapitre, nous vous invitons à suivre nous livecoding en direct avec le **lien qui vous a été communiqué** et le [wiki](http://vps351058.ovh.net/livecoding/ng2-chapitre1/wikis/home).
+
+**Une fois la session terminée, vous pourrez vous lancer dans les challenges ci-dessous.**
+
 # Challenge
 
-Grâce à notre workshop, vous avez normalement réussi à assimiler les bases de création d'une architecture Angular2, félicitation !
+Grâce à ce chapitre 1, vous avez normalement réussi à assimiler les bases de création d'une architecture Angular2, félicitation !
 À présent on va vous laisser vous aventurer sans nous.
 
 ### Avant de commencer
