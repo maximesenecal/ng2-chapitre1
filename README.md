@@ -26,6 +26,8 @@ git checkout -b votrenom master
 npm install
 ```
 
+Vous pouvez à présent lancer le serveur pour vérifier si vous avez bien récupérer les sources.
+
 ### Consignes du challenge
 
 Pour faire le challenge vous devez :
