@@ -18,6 +18,9 @@ Vous devez faire un *[fork](https://help.github.com/articles/fork-a-repo/#platfo
 git clone http://vps351058.ovh.net/livecoding/ng2-chapitre1.git
 cd ng2-chapitre1
 ```
+
+*Vous devrez renseigner vos identifiants de connexion de cette plateforme GitLab*
+
 ```
 git checkout -b votrenom master
 npm install
